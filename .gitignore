@@ -1,0 +1,17 @@
+# Bazel outputs
+bazel-bin/
+bazel-out/
+bazel-testlogs/
+bazel-*
+
+# Compiled Tesseract binaries
+tesseract
+
+# IDE/editor/temp
+*.swp
+.idea/
+.vscode/
+*.log
+*.err
+*.csv
+*.sh
